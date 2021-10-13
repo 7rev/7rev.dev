@@ -15,7 +15,7 @@ AMSTERDAM, The Netherlands, Oct. 13, 2021 -- 7rev has launched a validator for t
 
 Validators issue validation messages, which are a set of candidate transactions for evaluation by the XRP Ledger network during the consensus process.
 
-Our validator public key:
+<div>Our validator public key:</div>
 <div style="overflow-x: auto; width:100%">
 <a href="https://livenet.xrpl.org/validators/nHB6m64V1TtBugo4XLjZvFm82EDiCEnAbx7aBDZEt52EbtQkR7LF" target="_blank">nHB6m64V1TtBugo4XLjZvFm82EDiCEnAbx7aBDZEt52EbtQkR7LF</a>
 </div>
