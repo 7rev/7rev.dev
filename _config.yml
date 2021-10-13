@@ -76,7 +76,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      image: "/assets/feature-image-stock.jpg" # Default image for sharing
   -
     scope:
       path: ""
@@ -95,7 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "7rev" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+description: "7rev started as two software engineers with a strong interest in fintech and in particular cryptocurrencies." # Site description and default description, also used in jekyll-seo-tag
 url: "https://7rev.dev" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/7rev/7rev.dev"
