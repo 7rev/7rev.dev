@@ -65,7 +65,7 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "7rev blog updates" # The post list page content
+    description: "" # The post list page content
     feature_text: |
       
     feature_image: "../assets/feature-image-stock.jpg"
